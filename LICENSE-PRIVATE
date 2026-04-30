@@ -1,0 +1,97 @@
+ALTITUDE INTERACTIVE PROPRIETARY LICENSE
+
+Copyright (c) 2024–Present Altitude Interactive. All Rights Reserved.
+
+================================================================================
+SCOPE
+================================================================================
+
+This repository and all its contents (the "Software") are the exclusive property
+of Altitude Interactive.
+
+The Software includes, but is not limited to:
+
+  - source code;
+  - compiled binaries;
+  - assets and media;
+  - configuration files;
+  - scripts and tooling;
+  - documentation.
+
+================================================================================
+NO GRANT OF RIGHTS
+================================================================================
+
+No rights are granted to any individual or entity except Authorised Personnel.
+
+You may NOT, without prior written permission from Altitude Interactive:
+
+  - copy, reproduce, or redistribute the Software;
+  - modify or create derivative works;
+  - use the Software for any purpose;
+  - reverse engineer, decompile, or disassemble the Software;
+  - sublicense, sell, or transfer the Software.
+
+================================================================================
+AUTHORISED PERSONNEL
+================================================================================
+
+"Authorised Personnel" refers to individuals explicitly granted access by
+Altitude Interactive (employees, contractors, approved contributors).
+
+They may use the Software strictly for internal development, maintenance, and
+operation of Altitude Interactive projects.
+
+This access does NOT grant ownership or any intellectual property rights.
+
+================================================================================
+INTELLECTUAL PROPERTY
+================================================================================
+
+All rights, titles, and interests in the Software remain the exclusive property
+of Altitude Interactive, including all copyrights, trademarks, patents, and
+trade secrets.
+
+================================================================================
+CONFIDENTIALITY
+================================================================================
+
+The Software is confidential.
+
+Authorised Personnel must not disclose, share, or expose any part of the
+Software to third parties without prior written authorization.
+
+================================================================================
+NO WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, OR NON-INFRINGEMENT.
+
+IN NO EVENT SHALL ALTITUDE INTERACTIVE BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+================================================================================
+TERMINATION
+================================================================================
+
+Access and rights terminate immediately upon:
+
+  (a) termination of collaboration with Altitude Interactive; or
+  (b) breach of this license.
+
+Upon termination, all copies of the Software must be deleted or returned.
+
+================================================================================
+GOVERNING LAW
+================================================================================
+
+This license is governed by applicable law in the jurisdiction of Altitude
+Interactive’s principal place of operation.
+
+================================================================================
+CONTACT
+================================================================================
+
+https://github.com/Altitude-Interactive/
